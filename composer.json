@@ -1,0 +1,24 @@
+{
+  "name": "ansuir/easy-web-socket",
+  "description": "An easy websocket component based on swoole.",
+  "keywords": [
+    "swoole",
+    "websocket"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ansuir",
+      "email": "mail@ansuir.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "eaglewu/swoole-ide-helper": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ansuir\\EasyWebSocket\\": "src"
+    }
+  }
+}
