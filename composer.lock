@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "0843ba8bb2b2d99290ba4d99896f833d",
+    "content-hash": "7e2b3014d56b9222496d5711387325c6",
     "packages": [
         {
             "name": "eaglewu/swoole-ide-helper",
@@ -39,7 +39,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "eaglewu/swoole-ide-helper": 20
     },
