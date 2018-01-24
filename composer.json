@@ -20,5 +20,6 @@
     "psr-4": {
       "Ansuir\\EasyWebSocket\\": "src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
